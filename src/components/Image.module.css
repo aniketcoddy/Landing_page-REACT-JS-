@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding:0px;
+    width:705px;
+    height: 750px;
+
+    flex: none;
+    order: 1;
+    flex-grow :0;
+}

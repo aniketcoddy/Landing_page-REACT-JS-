@@ -1,0 +1,206 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 87px;
+    position: absolute;
+    width: 1522px;
+    height: 693px;
+    left: calc(50% - 1512px/2);
+    top: calc(50% - -3484px/2 + 1426.5px);
+    background: #F4F4F4;
+}
+
+.logo{
+    width: 319px;
+height: 31px;
+
+font-family: 'BN Chester Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 39px;
+color: #161616;
+flex: none;
+flex-grow: 0;
+}
+
+.content{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 42px;
+
+width: 1170px;
+height: 455.88px;
+
+
+/* Inside auto layout */
+
+flex: none;
+flex-grow: 0;
+}
+
+.cards{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+width: 1170px;
+height: 400px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.dots{
+    width: 58px;
+    height: 13.88px;
+    flex: none;
+    flex-grow: 0;
+}
+
+.testi{
+    width: 570px;
+height: 400px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.lady{
+    position: absolute;
+width: 172px;
+height: 172px;
+left: 91px;
+top: 36px;
+}
+
+.name{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 7px;
+
+position: absolute;
+width: 229px;
+height: 55px;
+left: 298px;
+top: 67px;
+}
+
+.h1{
+    width: 128px;
+    height: 1px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 8px;
+    color: #161616;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.h3{
+    width: 229px;
+    height: 1px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 0px;
+    color: #B5B5B5;
+    margin: 9px 1px 1px 1px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+    position: absolute;
+    width: 100px;
+    height: 28px;
+    left: 290px;
+    top: 154px;
+
+}
+
+.p
+{
+    position: absolute;
+    width: 400px;
+    height: 126px;
+    left: 108px;
+    top: 222px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 170%;
+    color: #161616;}
+
+.line{
+    position: absolute;
+    width: 305px;
+    height: 0px;
+    left: 262px;
+    top: 114px;
+    border: 1px solid #DCD1BB;
+}
+
+.testi2{
+    width: 570px;
+    height: 400px;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.box{
+    position: relative;
+width: 570px;
+height: 400px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+.men{
+    position: absolute;
+width: 172px;
+height: 172px;
+left: 91px;
+top: 36px;
+}
+
+

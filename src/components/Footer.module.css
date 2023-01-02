@@ -1,0 +1,261 @@
+.container{
+    position: absolute;
+    width: 1440px;
+    height: 482px;
+    left: 0px;
+    top: 4464px;
+}
+
+.box{
+    position: absolute;
+    width: 1520px;
+    height: 482px;
+    left: 0px;
+    top: 0px;
+    
+    /* 2 bg */
+    
+    background: #F4F4F4;
+}
+
+.contacts{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap:4px;
+
+position: absolute;
+width: 270px;
+height: 284px;
+left: 1034px;
+top: 103px;
+
+}
+
+.h1{
+    width: 83px;
+height: 20px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+/* Dark text */
+
+color: #161616;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.content{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 28px;
+
+width: 270px;
+height: 240px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.address{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 270px;
+height: 48px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.email{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 270px;
+height: 48px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.phone{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 219px;
+height: 48px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+.h2{
+    width: 59px;
+    height: 1px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #878787;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.h3{
+    width: 270px;
+height: 18px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #161616;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.logo{
+    position: absolute;
+width: 137.28px;
+height: 23.06px;
+left: 135.58px;
+top: 94px;
+
+}
+
+.navigation{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 93px;
+height: 209px;
+left: 635px;
+top: 103px;
+}
+.logomat{
+    position: absolute;
+width: 300px;
+height: 96px;
+left: 137px;
+top: 177px;
+}
+
+.social{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 100px;
+height: 28px;
+left: 635px;
+top: 359px;
+
+}
+
+.para{
+    position: absolute;
+    width: 300px;
+    height: 96px;
+    left: 137px;
+    top: 177px;
+    
+    /* Body */
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 170%;
+    /* or 27px */
+    
+    
+    /* Dark text */
+    
+    color: #161616;
+}
+
+.socio{
+    position: absolute;
+    width: 276px;
+    height: 18px;
+    left: -1px;
+    top: 169px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #161616;
+}
+
+
+
+.para{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
+    width: 75px;
+    margin: -114px -17px 1px -129px;
+    line-height: 30px;
+  
+    height: 128px;
+   
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
